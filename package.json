@@ -1,6 +1,6 @@
 {
-  "name": "facerecognitionfedsfs",
-  "homepage": "https://Mohamed864.github.io/FaceRecognition",
+  "name": "facerecognition",
+  "homepage": "https://Mohamed864.github.io/FaceRecognitionFb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
