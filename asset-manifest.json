@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FaceRecognitionFb/static/css/main.5776905d.chunk.css",
+    "main.js": "/FaceRecognitionFb/static/js/main.a24fde13.chunk.js",
+    "main.js.map": "/FaceRecognitionFb/static/js/main.a24fde13.chunk.js.map",
+    "runtime-main.js": "/FaceRecognitionFb/static/js/runtime-main.cbcf6026.js",
+    "runtime-main.js.map": "/FaceRecognitionFb/static/js/runtime-main.cbcf6026.js.map",
+    "static/css/2.fe359a49.chunk.css": "/FaceRecognitionFb/static/css/2.fe359a49.chunk.css",
+    "static/js/2.413ceab7.chunk.js": "/FaceRecognitionFb/static/js/2.413ceab7.chunk.js",
+    "static/js/2.413ceab7.chunk.js.map": "/FaceRecognitionFb/static/js/2.413ceab7.chunk.js.map",
+    "static/js/3.8723dd19.chunk.js": "/FaceRecognitionFb/static/js/3.8723dd19.chunk.js",
+    "static/js/3.8723dd19.chunk.js.map": "/FaceRecognitionFb/static/js/3.8723dd19.chunk.js.map",
+    "index.html": "/FaceRecognitionFb/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/FaceRecognitionFb/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.5776905d.chunk.css.map": "/FaceRecognitionFb/static/css/main.5776905d.chunk.css.map",
+    "static/js/2.413ceab7.chunk.js.LICENSE.txt": "/FaceRecognitionFb/static/js/2.413ceab7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcf6026.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.413ceab7.chunk.js",
+    "static/css/main.5776905d.chunk.css",
+    "static/js/main.a24fde13.chunk.js"
+  ]
+}
